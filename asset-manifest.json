@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Spiritual-tutor/static/css/main.e20c1c7f.css",
+    "main.js": "/Spiritual-tutor/static/js/main.dc383362.js",
+    "static/js/453.4d4393a3.chunk.js": "/Spiritual-tutor/static/js/453.4d4393a3.chunk.js",
+    "static/media/logo.png": "/Spiritual-tutor/static/media/logo.0071138422a07ecbd621.png",
+    "index.html": "/Spiritual-tutor/index.html",
+    "main.e20c1c7f.css.map": "/Spiritual-tutor/static/css/main.e20c1c7f.css.map",
+    "main.dc383362.js.map": "/Spiritual-tutor/static/js/main.dc383362.js.map",
+    "453.4d4393a3.chunk.js.map": "/Spiritual-tutor/static/js/453.4d4393a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e20c1c7f.css",
+    "static/js/main.dc383362.js"
+  ]
+}
